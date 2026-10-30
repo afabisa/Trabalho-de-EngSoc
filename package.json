@@ -1,0 +1,18 @@
+{
+  "name": "atelier-marina-cardapio",
+  "version": "1.0.0",
+  "description": "Protótipo de Cardápio Digital e Sistema de Encomendas para Engenharia de Software - UFRJ",
+  "scripts": {
+    "test": "node test_domain.js",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "engenharia-de-software",
+    "ufrj",
+    "cardapio-digital",
+    "pwa",
+    "vanilla-js"
+  ],
+  "author": "Engenharia de Software UFRJ",
+  "license": "MIT"
+}
